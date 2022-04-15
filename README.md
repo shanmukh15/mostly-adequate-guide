@@ -1,3 +1,6 @@
+[![build](https://github.com/shanmukh15/mostly-adequate-guide/actions/workflows/build.yml/badge.svg?branch=master&event=page_build)](https://github.com/shanmukh15/mostly-adequate-guide/actions/workflows/build.yml)
+
+
 [![cover](images/cover.png)](SUMMARY.md)
 
 ## About this book
